@@ -1,0 +1,8 @@
+# Ignorar archivos generados por IDEs
+.idea/
+
+# Ignorar todos los archivos CSV
+*.csv
+__pycache__/
+.venv/
+*.txt
