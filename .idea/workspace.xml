@@ -35,6 +35,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Analisis.executor": "Run",
+    "Python.lol.executor": "Run",
+    "Python.prueba.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -62,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1716073553818</updated>
       <workItem from="1716073574953" duration="3284000" />
-      <workItem from="1716673929051" duration="2355000" />
+      <workItem from="1716673929051" duration="4799000" />
+      <workItem from="1717185609223" duration="7863000" />
     </task>
     <servers />
   </component>
@@ -70,6 +73,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AnalisisConsistencia$Analisis.coverage" NAME="Analisis Coverage Results" MODIFIED="1716676513675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnalisisConsistencia$prueba.coverage" NAME="prueba Coverage Results" MODIFIED="1717190624232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnalisisConsistencia$lol.coverage" NAME="lol Coverage Results" MODIFIED="1717193413802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnalisisConsistencia$Analisis.coverage" NAME="Analisis Coverage Results" MODIFIED="1717192968541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
