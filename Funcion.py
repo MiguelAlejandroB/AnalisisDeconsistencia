@@ -58,11 +58,11 @@ def analisis_consistencia(csv_file, valor_limite=0.97):
 
     # Determinar el resultado final
     if porcentaje_inconsistentes < 10:
-        resultado = 0  # Es consistente
+        return true  # Es consistente
     else:
-        resultado = 1  # No es consistente
+        return false  # No es consistente
 
-    return resultado
+
 
 
 # Ejemplo de uso de la función
