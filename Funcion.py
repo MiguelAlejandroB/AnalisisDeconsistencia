@@ -55,7 +55,7 @@ def analisis_consistencia(csv_file, valor_limite=0.97):
 
     # Calcular el porcentaje de datos inconsistentes
     porcentaje_inconsistentes = (num_datos_debajo_limite / len(df_resultados)) * 100
-
+    print(df_resultados)
     # Determinar el resultado final
     if porcentaje_inconsistentes < 10:
         return true  # Es consistente
