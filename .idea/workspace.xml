@@ -6,20 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="941fb1f6-83e5-463d-97c2-899825375928" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Analisis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Analisis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GraficaData.py" beforeDir="false" afterPath="$PROJECT_DIR$/GraficaData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraficasPendientes/Alone_CauAcum.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraficasPendientes/Alone_slope.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraficasPendientes/Incon_CauAcum.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/Incon_CauAcum.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraficasPendientes/Incon_slope.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/Incon_slope.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_12027050 (1)_CauAcum.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_12027050 (1)_CauAcum.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_12027050 (1)_slope.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_12027050 (1)_slope.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_21087080_CauAcum.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_21087080_CauAcum.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_21087080_slope.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_21087080_slope.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_21257070_CauAcum.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_21257070_CauAcum.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_21257070_slope.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_21257070_slope.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_35097080_CauAcum.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_35097080_CauAcum.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_35097080_slope.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_35097080_slope.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/Datos84Consis_CauAcum.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/Datos84Consis_CauAcum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/Datos84Consis_slope.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/Datos84Consis_slope.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +75,8 @@
       <workItem from="1717884086465" duration="1356000" />
       <workItem from="1718487224630" duration="2383000" />
       <workItem from="1718500716004" duration="2888000" />
-      <workItem from="1719019143045" duration="7597000" />
+      <workItem from="1719019143045" duration="7921000" />
+      <workItem from="1719075122256" duration="410000" />
     </task>
     <servers />
   </component>
@@ -97,7 +87,7 @@
     <SUITE FILE_PATH="coverage/AnalisisConsistencia$prueba.coverage" NAME="prueba Coverage Results" MODIFIED="1717193602965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AnalisisConsistencia$Funcion2.coverage" NAME="Funcion2 Coverage Results" MODIFIED="1717286670839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AnalisisConsistencia$lol.coverage" NAME="lol Coverage Results" MODIFIED="1717193413802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AnalisisConsistencia$GraficaData.coverage" NAME="GraficaData Coverage Results" MODIFIED="1719026579618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnalisisConsistencia$GraficaData.coverage" NAME="GraficaData Coverage Results" MODIFIED="1719075517945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AnalisisConsistencia$Analisis.coverage" NAME="Analisis Coverage Results" MODIFIED="1718488983100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AnalisisConsistencia$Funcion.coverage" NAME="Funcion Coverage Results" MODIFIED="1717287699084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

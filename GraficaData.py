@@ -18,7 +18,7 @@ for file_name in os.listdir(csv_folder):
     if file_name.endswith('.csv'):
         file_path = os.path.join(csv_folder, file_name)
         # Leer el csv
-        data = pd.read_csv(file_path, parse_dates=['Fecha'], dayfirst=True)
+        data = pd.read_csv(file_path, parse_dates=['Fecha'], dayfirst=True,low_memory=False)
         # Obtener el nombre base del archivo sin la extensión
         base_name = os.path.splitext(file_name)[0]
         # Crear la ruta del directorio donde se guardarán las gráficas
@@ -57,8 +57,6 @@ for file_name in os.listdir(csv_folder):
         archivo_salida = os.path.join(carpeta_salida, f"{base_name}_CauAcum.csv")
         # Guardar el DataFrame en un archivo CSV
         dfAcumu_anual.to_csv(archivo_salida, index=False)
-        if base_name=='Datos84Consis':
-            print(dfAcumu_anual)
         # Iterar a través de los años y hacer lo que necesites con los datos de cada año
         for year in years:
             # Filtrar los datos para el año actual
