@@ -7,7 +7,19 @@
     <list default="true" id="941fb1f6-83e5-463d-97c2-899825375928" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Analisis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Analisis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Funcion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Funcion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficaData.py" beforeDir="false" afterPath="$PROJECT_DIR$/GraficaData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/Alone_CauAcum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/Alone_slope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/Incon_CauAcum.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/Incon_CauAcum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/Incon_slope.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/Incon_slope.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_12027050 (1)_CauAcum.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_12027050 (1)_CauAcum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_12027050 (1)_slope.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_12027050 (1)_slope.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_21087080_CauAcum.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_21087080_CauAcum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_21087080_slope.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_21087080_slope.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_21257070_CauAcum.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_21257070_CauAcum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_21257070_slope.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_21257070_slope.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_35097080_CauAcum.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_35097080_CauAcum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraficasPendientes/est_35097080_slope.png" beforeDir="false" afterPath="$PROJECT_DIR$/GraficasPendientes/est_35097080_slope.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,25 +45,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Analisis.executor": "Run",
-    "Python.Funcion.executor": "Run",
-    "Python.Funcion2.executor": "Run",
-    "Python.GraficaData.executor": "Run",
-    "Python.lol.executor": "Run",
-    "Python.prueba.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Analisis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funcion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funcion2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GraficaData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prueba.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,7 +84,9 @@
       <workItem from="1717185609223" duration="8138000" />
       <workItem from="1717285316049" duration="3192000" />
       <workItem from="1717884086465" duration="1356000" />
-      <workItem from="1718487224630" duration="1233000" />
+      <workItem from="1718487224630" duration="2383000" />
+      <workItem from="1718500716004" duration="2888000" />
+      <workItem from="1719019143045" duration="7597000" />
     </task>
     <servers />
   </component>
@@ -83,8 +97,8 @@
     <SUITE FILE_PATH="coverage/AnalisisConsistencia$prueba.coverage" NAME="prueba Coverage Results" MODIFIED="1717193602965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AnalisisConsistencia$Funcion2.coverage" NAME="Funcion2 Coverage Results" MODIFIED="1717286670839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AnalisisConsistencia$lol.coverage" NAME="lol Coverage Results" MODIFIED="1717193413802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AnalisisConsistencia$GraficaData.coverage" NAME="GraficaData Coverage Results" MODIFIED="1718488549382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AnalisisConsistencia$Analisis.coverage" NAME="Analisis Coverage Results" MODIFIED="1718487942610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnalisisConsistencia$GraficaData.coverage" NAME="GraficaData Coverage Results" MODIFIED="1719026579618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnalisisConsistencia$Analisis.coverage" NAME="Analisis Coverage Results" MODIFIED="1718488983100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AnalisisConsistencia$Funcion.coverage" NAME="Funcion Coverage Results" MODIFIED="1717287699084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
